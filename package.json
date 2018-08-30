@@ -1,0 +1,17 @@
+{
+  "name": "ltips",
+  "version": "1.0.0",
+  "description": "LtipsInit web design",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass"
+  },
+  "keywords": [
+    "A",
+    "Static",
+    "ltipsinit",
+    "website"
+  ],
+  "author": "Godfrey Atima",
+  "license": "MIT"
+}
